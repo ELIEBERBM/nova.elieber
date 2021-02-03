@@ -1,0 +1,106 @@
+############################### JORNALISMO #############################
+#EXTINF:-1 group-title="JORNALISMO" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png",CNN BRASIL HD
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output1.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="JORNAL",Band News
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+
+
+############################### EDUCAÇÃO #############################
+#EXTINF:-1 group-title="EDUCAÇÃO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5RipeSYEQ6aNesR23p9Qz-coBZE1UVaL1Q&usqp=CAU",MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w1620620002.m3u8
+#EXTINF:-1 group-title="EDUCAÇÃO" tvg-logo="http://i.imgur.com/hbpsGWw.png",TV Escola
+http://origin-02.nxplay.com.br/TV_ESCOLA_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="EDUCAÇÃO" tvg-logo="http://i.imgur.com/hbpsGWw.png",TV Escola
+https://video-rvd-df-2.rnp.br/live/ocp(t(FmBCsMxmNAI)r(fVR9ug)a(sWqTtw)p(d(2xc)k(q8Q)m(oe296mwercKv06i7lW3dbw)n(a(EhUpfQ)s(La4)'a(6FrYmQ)s(jQU)))s(s(y7M)b(9yOEqi3xNIpASZkIf0CuTnTb5SIvg1-0A2nLZm5XWvScr9vN6y1WAHWb9Y3EAihWH9gG37GF1Nxc_4XVnQ)'s(pmU)b(SAsV3MV_yuUo13a9h1CXWKa8k1ENM2hL3LMC_YQxIxzz1mygSvVJmW6mimHp42qxQug6iTU5juSlLMqAkCxjBgfjWNeCl0y7-S4houq2)'s(RZ8)b(KCfZJQN7))m(0))/tvescola_index.m3u8
+ #EXTINF:-1 group-title="EDUCAÇÃO" tvg-id="Futura" tvg-name="FUTURA SD" tvg-logo="http://tvsimg.esy.es/img/futura.png" group-title="CANAIS: ABERTOS",FUTURA SD
+http://vpnbr.top:80/539058/3c0ecb/2116
+#EXTINF:-1 group-title="EDUCAÇÃO"  tvg-id="Futura" tvg-name="FUTURA SD²" tvg-logo="http://tvsimg.esy.es/img/tvcultura.jpg" group-title="CANAIS: ABERTOS",FUTURA SD²
+http://vpnbr.top:80/539058/3c0ecb/2117
+#EXTINF:-1 group-title="EDUCAÇÃO"  tvg-name="TV UNIVESP SD" tvg-logo="https://scontent.fsdu1-1.fna.fbcdn.net/v/t1.15752-9/119904628_326868985308998_3406727996543810772_n.png?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=vUEr9MOILtQAX_hA_dv&_nc_ht=scontent.fsdu1-1.fna&oh=345c8719b654f62400c5ad271a26ffa8&oe=5F8CFD01" group-title="CANAIS: ABERTOS",TV UNIVESP SD
+http://vpnbr.top:80/539058/3c0ecb/2119
+#EXTINF:-1 group-title="EDUCAÇÃO" tvg-name="TV UNIVESP HD" tvg-logo="https://scontent.fsdu1-1.fna.fbcdn.net/v/t1.15752-9/119904628_326868985308998_3406727996543810772_n.png?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=vUEr9MOILtQAX_hA_dv&_nc_ht=scontent.fsdu1-1.fna&oh=345c8719b654f62400c5ad271a26ffa8&oe=5F8CFD01" group-title="CANAIS: ABERTOS",TV UNIVESP HD
+http://vpnbr.top:80/539058/3c0ecb/2120
+
+############################### RELIGIOSOS #############################
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="http://2.bp.blogspot.com/-bX1OGlr5NlQ/TgVBoH8Gq7I/AAAAAAAADKI/9hltPVTBHsM/s1600/logo_tv.png",TV GIDEOES
+https://streaming01.zas.media/gideoes/tv.smil/chunklist_w1429154180_b1396000_DVR.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN1DbF3nn-BPxuBX4hI1y3vz1Flh6bDDg_gw&usqp=CAU",GOSPEL MUSIC HD
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="http://i.imgur.com/KlbMTBD.png",Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo=""https://s3-sa-east-1.amazonaws.com/inradar.media/uploads/tertiarygroup/2056/tertiarygroup-db8d7cdb5f13d6347bdc2910e6e7a0fb.png",REDE SUPER
+https://playback2.akamaized.net/streams/10205943_3429501_lsi639r1wxdsm42xk3g_1/exp=1612402018~acl=%2f*~data=hdntl~hmac=1e7666f1edcbaf545030069d86a82ab652d91c280ad3a1bbf371c6c6c708aa00/media/10205943_3429501_lsi639r1wxdsm42xk3g_1@678000p.m3u8?dw=14400&ts=1612314000
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="http://2.bp.blogspot.com/-bX1OGlr5NlQ/TgVBoH8Gq7I/AAAAAAAADKI/9hltPVTBHsM/s1600/logo_tv.png",TV GIDEOES
+https://streaming01.zas.media/gideoes/tv.smil/chunklist_w1429154180_b1396000_DVR.m3u8
+
+
+############################### NATUREZA #############################
+EXTINF:-1 group-title="NATUREZA" tvg-logo="https://www.pbs.org/wnet/nature/wp-content/themes/nature-2014/libs/images/nature-footer-copyright.png",ANIM NATURE
+http://200.194.238.236:5000/play/a006/index.m3u8
+#EXTINF:-1 group-title="NATUREZA" tvg-logo="",LOVE NATURE - INGLÊS
+https://origin-02.nxplay.com.br/LOVENATURE_NX/playlist.m3u8
+#EXTINF:-1 group-title="NATUREZA" tvg-logo="https://i.imgur.com/709MBnc.png",TRAVEL CHANNEL HD
+http://200.194.238.231:8888/play/a03z/index.m3u8
+
+
+
+############################### MUSICA #############################
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Multishow_HD_logo.png",MULTISHOW HD
+https://live.video.CANAIS GLOBO.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
+
+
+############################### MUSICA #############################
+#EXTINF:-1 group-title="ABERTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQHKtiWmNhpj1dmwpr67axDnVmESB6E1Q5A&usqp=CAU",CANAIS GLOBO RJ
+http://live.video.CANAIS GLOBO.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-CANAIS GLOBO-rj/hls-CANAIS GLOBO-rj_2359/playlist.m3u8
+
+############################### AGRICULTURA E PECUARIA #############################
+#EXTINF:-1 group-title="AGRICULTURA E PECUARIA" tvg-logo="https://i.imgur.com/bvUdroU.png",Agro Mais
+http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
+
+############################### CANAIS GLOBO #############################
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOrpc.jpg",CANAIS GLOBO RPC CURITIBA FHD
+http://vpnbr.top:80/539058/3c0ecb/1955
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOahanguera.png",CANAIS GLOBO TV ANHANGUERA SD
+http://vpnbr.top:80/539058/3c0ecb/1956
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOahanguera.png",CANAIS GLOBO TV ANHANGUERA HD
+http://vpnbr.top:80/539058/3c0ecb/1957
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOahanguera.png",CANAIS GLOBOTV ANHANGUERA HD ᴮᴿ
+http://vpnbr.top:80/539058/3c0ecb/44963
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOahanguera.png",CANAIS GLOBO TV ANHANGUERA FHD
+http://vpnbr.top:80/539058/3c0ecb/1958
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOnsctv.png",CANAIS GLOBO NSC TV CHAPECO HD
+http://vpnbr.top:80/539058/3c0ecb/1975
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOnsctv.png",CANAIS GLOBO NSC TV CHAPECO FHD
+http://vpnbr.top:80/539058/3c0ecb/1976
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOrpc.jpg",CANAIS GLOBO RPC FOZ DO IGUACU SD
+http://vpnbr.top:80/539058/3c0ecb/1977
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOrpc.jpg",CANAIS GLOBO RPC FOZ DO IGUACU HD
+http://vpnbr.top:80/539058/3c0ecb/1978
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOrpc.jpg",CANAIS GLOBO RPC FOZ DO IGUACU FHD
+http://vpnbr.top:80/539058/3c0ecb/1979
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOvanguarda.jpg",CANAIS GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS SD ᴮᴿ
+http://vpnbr.top:80/539058/3c0ecb/44973
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="https://scontent.fsdu1-1.fna.fbcdn.net/v/t1.15752-9/120123999_248656893147049_808726250586457727_n.png?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=-ISxYC0l35YAX-fOltz&_nc_ht=scontent.fsdu1-1.fna&oh=212900c55957e38b79a2aac91be73dd3&oe=5F927DFF",CANAIS GLOBO TV CLUBE TERESINA SD
+http://vpnbr.top:80/539058/3c0ecb/1980
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="https://scontent.fsdu1-1.fna.fbcdn.net/v/t1.15752-9/120123999_248656893147049_808726250586457727_n.png?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=-ISxYC0l35YAX-fOltz&_nc_ht=scontent.fsdu1-1.fna&oh=212900c55957e38b79a2aac91be73dd3&oe=5F927DFF",CANAIS GLOBO TV CLUBE TERESINA HD
+http://vpnbr.top:80/539058/3c0ecb/1981
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOverdesmares.png",CANAIS GLOBO TV VERDES MARES SD
+http://vpnbr.top:80/539058/3c0ecb/2000
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOintertv.png",CANAIS GLOBO INTER TV SERRA MAR FHD
+http://vpnbr.top:80/539058/3c0ecb/2022
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOintertv.png",CANAIS GLOBO INTER TV CABUGI SD ᴮᴿ
+http://vpnbr.top:80/539058/3c0ecb/45029
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOnsctv.png",CANAIS GLOBO NSC TV BLUMENAU HD
+http://vpnbr.top:80/539058/3c0ecb/2023
+#EXTINF:-1 group-title="CANAIS GLOBO: CANAIS GLOBO" tvg-logo="http://tvsimg.esy.es/img/CANAIS GLOBOnsctv.png",CANAIS GLOBO NSC TV BLUMENAU HD
+http://vpnbr.top:80/539058/3c0ecb/2024
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL HD" tvg-logo="https://i.imgur.com/709MBnc.png" group-title="PORTUGAL",TRAVEL CHANNEL HD
+http://vpnbr.top:80/539058/3c0ecb/45807
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL BRASIL HD" tvg-logo="https://i.imgur.com/709MBnc.png" group-title="DOCUMENTARIO",TRAVEL CHANNEL HD
+http://200.194.238.231:8888/play/a03z/index.m3u8
+
+
+
+
+
+
